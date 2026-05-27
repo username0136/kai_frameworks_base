@@ -6346,7 +6346,4 @@
 
   <!-- Action for opening trusted location settings page -->
   <java-symbol type="string" name="trusted_location_settings_action" />
-
-  <!-- PIhooks -->
-  <java-symbol type="array" name="config_certifiedBuildProperties" />
 </resources>

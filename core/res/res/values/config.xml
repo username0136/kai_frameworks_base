@@ -7756,8 +7756,4 @@
         It can only contain non-AOSP permissions outside of the android.*
         and com.android.* namespace. -->
     <string-array name="config_watchFacePermissions" translatable="false"/>
-
-    <!-- Build properties from a GMS certified device against current platform SPL level -->
-    <string-array name="config_certifiedBuildProperties" translatable="false">
-    </string-array>
 </resources>
